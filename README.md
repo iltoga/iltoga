@@ -1,8 +1,12 @@
-👋 Hi, I’m @iltoga and I am an IT specialist with 30+ years of experience in the field (yeah I am old, I know...).
-👀 I’m interested in cryptography, decentralised systems, surf and snowboard/ski trips, yummy vegetarian receipes and cultures different from mine (I am Italian, but currently living in Bali with my family).
-🌱 I’m currently learning Rust lang. My production language right now is GoLang and I've coded for some years in Java (spring boot), php (yii, f3 and a little of symphony), javascript (react and angular) and many other old structured languages (Basic, VisualC, Delphi, etc.. ;) ).
-💞️ I’m looking to collaborate on projects (better if open source) that have a potential positive impact on our life and future, especially in the field of privacy and data ownership/accessibility, such as decentralised systems (not only blockchains ;) ) and cryptography applied to data.
-📫 How to reach me: via
+👋  Hi, I’m @iltoga and I am an IT specialist with 30+ years of experience in the field (yeah I am old, I know...).
+
+👀  I’m interested in cryptography, decentralised systems, surf and snowboard/ski trips, yummy vegetarian receipes and cultures different from mine (I am Italian, but currently living in Bali with my family).
+
+🌱  I’m currently learning Rust lang. My production language right now is GoLang and I've coded for some years in Java (spring boot), php (yii, f3 and a little of symphony), javascript (react and angular) and many other old structured languages (Basic, VisualC, Delphi, etc.. ;) ).
+
+💞️  I’m looking to collaborate on projects (better if open source) that have a potential positive impact on our life and future, especially in the field of privacy and data ownership/accessibility, such as decentralised systems (not only blockchains ;) ) and cryptography applied to data.
+
+📫  How to reach me: via
 email: galaxy73.it@gmail.com
 linkedin: www.linkedin.com/in/stefanogalassi
 
