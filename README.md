@@ -1,4 +1,4 @@
-👋  Hi, I’m @iltoga and I am an IT specialist with 30+ years of experience in the field (yeah I am old, I know...).
+👋  Hi, I’m @iltoga and I am an IT specialist with 30+ years of experience in the field (yes, I'm seasoned, but that's okay!).
 
 👀  I’m interested in cryptography, decentralised systems, surf and snowboard/ski trips, yummy vegetarian receipes and cultures different from mine (I am Italian, but currently living in Bali with my family).
 
